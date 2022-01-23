@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions', # for managing user data (do we need this?)
     'django.contrib.messages',
     'django.contrib.staticfiles', #manages images, CSS files etc. 
-    'playground' #new test app
+  
 ]
 
 
